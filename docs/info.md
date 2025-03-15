@@ -12,8 +12,7 @@ You can also include images in this folder and reference them in the markdown. E
 Divide freq of input to putput
 
 ## How to test
-
-Explain how to use your project
+connect led to output.
 
 ## External hardware
 
